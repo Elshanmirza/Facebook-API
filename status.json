@@ -1,0 +1,23 @@
+[
+    {
+        "pimage": "./pictures/turbo.az.png",
+        "pname": "Turbo.Az",
+        "p": "Mercedes C 300, 2.0 L, 2017 il, 87 000 km",
+        "image": "./pictures/mercedes.png"
+    },
+    
+    {
+        "pimage": "./pictures/rovsen-p-image.jpeg",
+        "pname": "Rovshen Novruzlu",
+        "p": "Xan Lənkəran MFK",
+        "image": "./pictures/rovsen-news.jpeg"
+    },
+
+    {
+        "pimage": "./pictures/aga-p-image.jpeg",
+        "pname": "Aga Shahverdiyev",
+        "p": "Putinin yeri hazırdı) ağlayanı çatışmır)",
+        "image": "./pictures/aga-news.jpeg"
+    }
+
+]
